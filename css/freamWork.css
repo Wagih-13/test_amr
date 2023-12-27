@@ -1,0 +1,21 @@
+.container {
+  width: 92%;
+  margin: auto;
+  padding: 20px 15px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.d-grid {
+  display: grid;
+}
+
+.d-none {
+  display: none;
+}
+
+.gap-10 {
+  gap: 10px;
+}
